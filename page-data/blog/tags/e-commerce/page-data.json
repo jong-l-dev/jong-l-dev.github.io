@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/e-commerce/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Excited to Join Shoplazza - A Journey Home","description":"As I embark on this new chapter with Shoplazza","date":"2022-03-11T00:00:00.000Z","slug":"/blog/jong-and-shoplazza","tags":["Culture","Startup","E-commerce"]}}}]}},"pageContext":{"tag":"E-commerce"}},
+    "staticQueryHashes": ["1994492073","2009693873","2031412112","3825832676"]}
