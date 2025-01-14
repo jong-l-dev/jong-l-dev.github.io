@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/mobile/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Speech-to-Text Recording Issues on iOS Devices","description":"Developing a seamless speech-based chat solution is","date":"2025-01-08T00:00:00.000Z","slug":"/blog/speech-to-text-recording-issue","tags":["iOS","AI","Mobile"]}}}]}},"pageContext":{"tag":"Mobile"}},
+    "staticQueryHashes": ["1994492073","2009693873","2031412112","3825832676"]}
