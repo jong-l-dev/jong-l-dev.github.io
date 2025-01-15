@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/upwork/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Hacker vs. Senior","description":"How I Lost My Upwork Account Despite My Expertise","date":"2022-07-30T00:00:00.000Z","slug":"/blog/hacker-vs-senior","tags":["Upwork","Security"]}}}]}},"pageContext":{"tag":"Upwork"}},
+    "staticQueryHashes": ["1994492073","2009693873","2031412112","3825832676"]}
