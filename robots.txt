@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://j-liu-sys.github.io/sitemap-index.xml
-Host: https://j-liu-sys.github.io
+Sitemap: https://jong-l-dev.github.io/sitemap-index.xml
+Host: https://jong-l-dev.github.io
